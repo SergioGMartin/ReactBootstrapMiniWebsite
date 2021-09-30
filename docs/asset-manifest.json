@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactBootstrapMiniWebsite/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/ReactBootstrapMiniWebsite/static/js/main.1bd3a923.chunk.js",
-    "main.js.map": "/ReactBootstrapMiniWebsite/static/js/main.1bd3a923.chunk.js.map",
+    "main.js": "/ReactBootstrapMiniWebsite/static/js/main.6a90a76c.chunk.js",
+    "main.js.map": "/ReactBootstrapMiniWebsite/static/js/main.6a90a76c.chunk.js.map",
     "runtime-main.js": "/ReactBootstrapMiniWebsite/static/js/runtime-main.a25094e5.js",
     "runtime-main.js.map": "/ReactBootstrapMiniWebsite/static/js/runtime-main.a25094e5.js.map",
     "static/css/2.53150396.chunk.css": "/ReactBootstrapMiniWebsite/static/css/2.53150396.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.ea1455b2.chunk.css.map": "/ReactBootstrapMiniWebsite/static/css/main.ea1455b2.chunk.css.map",
     "static/js/2.a6d3fedc.chunk.js.LICENSE.txt": "/ReactBootstrapMiniWebsite/static/js/2.a6d3fedc.chunk.js.LICENSE.txt",
     "static/media/img1.jpg": "/ReactBootstrapMiniWebsite/static/media/img1.b76e7af7.jpg",
-    "static/media/img2.jpg": "/ReactBootstrapMiniWebsite/static/media/img2.6c86c9ad.jpg",
+    "static/media/img2.jpg": "/ReactBootstrapMiniWebsite/static/media/img2.7c998685.jpg",
     "static/media/img3.jpg": "/ReactBootstrapMiniWebsite/static/media/img3.496824c9.jpg"
   },
   "entrypoints": [
@@ -23,6 +23,6 @@
     "static/css/2.53150396.chunk.css",
     "static/js/2.a6d3fedc.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.1bd3a923.chunk.js"
+    "static/js/main.6a90a76c.chunk.js"
   ]
 }
