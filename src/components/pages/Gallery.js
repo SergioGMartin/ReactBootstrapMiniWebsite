@@ -44,7 +44,7 @@ const Gallery = () => {
         <div className="row mx-auto w-25">
             <nav aria-label="Page navigation example">
                 <ul className="pagination justify-content-center"> 
-                    <li className="page-item disabled" >
+                    <li className={"page-item" + (page===1?"disabled":null) }>
                         <a className="page-link" onClick={() => page>1 ? nextPage(page - 1) : null} href="#">Previous</a>
                     </li>
                     <li className="page-item active"><a className="page-link" onClick={() => nextPage(page)}  href="#">{page}</a></li>
